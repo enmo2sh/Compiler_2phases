@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="phase1_phase2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/phase1_phase2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/Ena/CodeBlocks/MinGW/bin/phase1_phase2/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/phase1_phase2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="phase1/DFA.cpp" />
+		<Unit filename="phase1/DFA.h" />
+		<Unit filename="phase1/NFA.cpp" />
+		<Unit filename="phase1/NFA.h" />
+		<Unit filename="phase1/TestProgram.cpp" />
+		<Unit filename="phase1/TestProgram.h" />
+		<Unit filename="phase1/calc_rgx.cpp" />
+		<Unit filename="phase1/calc_rgx.h" />
+		<Unit filename="phase1/input_rules.cpp" />
+		<Unit filename="phase1/input_rules.h" />
+		<Unit filename="phase1/minimization.cpp" />
+		<Unit filename="phase1/minimization.h" />
+		<Unit filename="phase1/parse_rules.cpp" />
+		<Unit filename="phase1/parse_rules.h" />
+		<Unit filename="phase1/structures.h" />
+		<Unit filename="phase2/check.cpp" />
+		<Unit filename="phase2/check.h" />
+		<Unit filename="phase2/generate_follow.cpp" />
+		<Unit filename="phase2/generate_follow.h" />
+		<Unit filename="phase2/generate_table.cpp" />
+		<Unit filename="phase2/generate_table.h" />
+		<Unit filename="phase2/left_factoring.cpp" />
+		<Unit filename="phase2/left_factoring.h" />
+		<Unit filename="phase2/main.cpp" />
+		<Unit filename="phase2/parse_grammar.cpp" />
+		<Unit filename="phase2/parse_grammar.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

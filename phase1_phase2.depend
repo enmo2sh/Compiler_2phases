@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1623440215 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\calc_rgx.cpp
+	"calc_rgx.h"
+	<bits/stdc++.h>
+	"structures.h"
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\calc_rgx.h
+	"structures.h"
+	"NFA.h"
+
+1623440351 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\structures.h
+	<bits/stdc++.h>
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\nfa.h
+	"structures.h"
+	<bits/stdc++.h>
+
+1623440215 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\dfa.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iterator>
+	"DFA.h"
+	"minimization.h"
+
+1623440351 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\dfa.h
+	<iostream>
+	<vector>
+	<map>
+	"structures.h"
+	<bits/stdc++.h>
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\minimization.h
+	<iostream>
+	<map>
+	"DFA.h"
+
+1623440215 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\minimization.cpp
+	<iostream>
+	"minimization.h"
+	<map>
+	<set>
+
+1623308581 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\nfa.cpp
+	"NFA.h"
+	<algorithm>
+	<bits/stdc++.h>
+
+1622987734 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\parse_rules.cpp
+	"parse_rules.h"
+	<bits/stdc++.h>
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\parse_rules.h
+	<bits/stdc++.h>
+
+1623440215 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\testprogram.cpp
+	"TestProgram.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<regex>
+	<iterator>
+
+1623101944 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\testprogram.h
+	<iostream>
+	<vector>
+	<map>
+	"minimization.h"
+	<bits/stdc++.h>
+
+1623415313 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\check.cpp
+	"check.h"
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\check.h
+	<iostream>
+	<bits/stdc++.h>
+
+1622987734 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\generate_follow.cpp
+	"generate_follow.h"
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\generate_follow.h
+	"parse_grammar.h"
+	<bits/stdc++.h>
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\parse_grammar.h
+	<bits/stdc++.h>
+
+1623417346 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\generate_table.cpp
+	"generate_table.h"
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\generate_table.h
+	"generate_follow.h"
+	<bits/stdc++.h>
+
+1623024774 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\left_factoring.cpp
+	"left_factoring.h"
+
+1622987734 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\left_factoring.h
+	"parse_grammar.h"
+	<bits/stdc++.h>
+
+1623437886 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\parse_grammar.cpp
+	"parse_grammar.h"
+	<bits/stdc++.h>
+	<string>
+
+1623440215 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\input_rules.cpp
+	"input_rules.h"
+	"parse_rules.h"
+	"minimization.h"
+	"TestProgram.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623101732 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase1\input_rules.h
+	"parse_rules.h"
+	"TestProgram.h"
+	"structures.h"
+	"calc_rgx.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1623437886 source:c:\users\ena\codeblocks\mingw\bin\phase1_phase2\phase2\main.cpp
+	<iostream>
+	<fstream>
+	"parse_grammar.h"
+	"left_factoring.h"
+	"generate_follow.h"
+	"generate_table.h"
+	"check.h"
+	"../phase1/input_rules.h"
+	<bits/stdc++.h>
+
+1623007031 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\input_rules.h
+	"parse_rules.h"
+	"TestProgram.h"
+	"structures.h"
+	"calc_rgx.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\parse_rules.h
+	<bits/stdc++.h>
+
+1623007169 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\testprogram.h
+	<iostream>
+	<vector>
+	<map>
+	"minimization.h"
+	<bits/stdc++.h>
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\minimization.h
+	<iostream>
+	<map>
+	"DFA.h"
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\dfa.h
+	<iostream>
+	<vector>
+	<map>
+	"structures.h"
+	<bits/stdc++.h>
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\structures.h
+	<bits/stdc++.h>
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\calc_rgx.h
+	"structures.h"
+	"NFA.h"
+
+1622945618 c:\users\ena\codeblocks\mingw\bin\phase1_phase2\\phase1\nfa.h
+	"structures.h"
+	<bits/stdc++.h>
+

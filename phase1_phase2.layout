@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="phase1\parse_rules.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1655" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="phase2\generate_follow.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2296" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="phase1\input_rules.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="832" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="phase1\DFA.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7356" topLine="219" />
+		</Cursor>
+	</File>
+	<File name="phase2\parse_grammar.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1226" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="20" />
+			<Collapse line="28" />
+			<Collapse line="47" />
+			<Collapse line="96" />
+			<Collapse line="100" />
+			<Collapse line="104" />
+		</Folding>
+	</File>
+	<File name="phase1\structures.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="718" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="phase2\left_factoring.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3617" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="phase1\DFA.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="947" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="phase1\calc_rgx.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6409" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase1\input_rules.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3925" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="28" />
+			<Collapse line="39" />
+			<Collapse line="75" />
+			<Collapse line="108" />
+		</Folding>
+	</File>
+	<File name="phase1\calc_rgx.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase2\check.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="17" />
+			<Collapse line="27" />
+		</Folding>
+	</File>
+	<File name="phase1\NFA.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase2\parse_grammar.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="256" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase1\TestProgram.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="721" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="phase1\minimization.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5432" topLine="131" />
+		</Cursor>
+	</File>
+	<File name="phase1\TestProgram.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="205" topLine="2" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="20" />
+			<Collapse line="29" />
+			<Collapse line="45" />
+			<Collapse line="109" />
+			<Collapse line="128" />
+		</Folding>
+	</File>
+	<File name="phase2\main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5323" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="30" />
+			<Collapse line="63" />
+			<Collapse line="72" />
+			<Collapse line="78" />
+			<Collapse line="109" />
+			<Collapse line="119" />
+			<Collapse line="135" />
+			<Collapse line="150" />
+		</Folding>
+	</File>
+	<File name="phase2\generate_table.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
